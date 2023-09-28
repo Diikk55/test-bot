@@ -10,7 +10,7 @@ import re  # regex
 
 notifica_adm = {"chave": "y"}  # y para ativo n para desligado
 
-adm = {"admin": '6274566513', "user": "@DedHack3r"}
+adm = {"admin": '5795951946', "user": "@fufukkj"}
 
 msg_menu_inicial = """Olá Seja Bem vindo!!
 ‌
@@ -41,7 +41,7 @@ msg_sem_resultado = "Não Encontrado ❎"
 usuario_cadastrado_no_bot = " Novo usuario entrou no bot  🥳 \n\n"
 saldo_resgatado = " Saldo Resgatado com sucesso ✔️ \n\n"
 gift_gerrado = "🏷 GIFT CARD GERADO! "
-token_bot = "6094148159:AAGyQOzedn2kGujIs88X4fok0AFMF0QVQUw"  # TOKEN DO SEU BOT
+token_bot = "6184722641:AAGrEFN6ogU5HXn_nzeU2Wa3fJdC0D7qV7c"  # TOKEN DO SEU BOT
 
 saldo_inical_do_usuario = 10
 ## config banco , n mwexa em nada aqui ##
